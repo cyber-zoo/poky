@@ -6,11 +6,7 @@ It's a fork of Yocto poky. Which URL: https://git.yoctoproject.org/poky/
 
 As description in [Sync Action](.github/workflows/sync.yml), the sync action runs hourly with `master` branch and `all tags`.
 
-## License
-
-The source code is released under [GPLv2](./LICENSE).
-
-### License of Poky
+## License of Poky
 
 Different components of OpenEmbedded are under different licenses (a mix
 of MIT and GPLv2). See LICENSE.GPL-2.0-only and LICENSE.MIT for further 
