@@ -1,8 +1,8 @@
-# Poky Fork
+# Poky
 
 ## Introduction
 
-It's a fork of Yocto poky. Which URL: https://git.yoctoproject.org/poky/
+It's a mirror of `poky`. Which URL: https://git.yoctoproject.org/poky/
 
 As description in [Sync Action](.github/workflows/sync.yml), the sync action runs hourly with `master` branch and `all tags`.
 
