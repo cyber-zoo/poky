@@ -4,7 +4,7 @@
 
 It's a mirror of `poky`. Which URL: https://git.yoctoproject.org/poky/
 
-As description in [Sync Action](.github/workflows/sync.yml), the sync action runs hourly with `master` branch and `all tags`.
+As description in [Sync Action](.github/workflows/sync.yml), the sync action runs hourly with `all branches` and `all tags`.
 
 ## License of Poky
 
